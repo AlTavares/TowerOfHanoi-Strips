@@ -1,0 +1,18 @@
+
+(operator
+  MOVE
+  (params
+    (<disk> Object) (<origin> Object) (<dest> Object)
+  )
+  (preconds
+    (smaller <disk> <dest>)
+    (on <disk> <origin>)
+    (clear <disk>)
+    (clear <dest>))
+  (effects
+    (del on <disk> <origin>)
+    (clear <origin>)
+    (on <disk> <dest>)
+    (del clear <dest>)
+  )
+)

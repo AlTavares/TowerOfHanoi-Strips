@@ -1,0 +1,426 @@
+MOVE
+facts loaded.
+warning: this program uses gets(), which is unsafe.
+number of time steps, or <CR> for automatic: 
+Info type: (2 = max, 0 or <CR> = min): 
+Other: 'I' = look for irrelevants
+       'L' = Lower bound time needed by counting steps
+       'B' = Build up to goals
+       'E' = Don't do mutual exclusions (for testing)
+       'S' = examine subsets:      
+time: 1, 45 facts and 6 exclusive pairs.
+time: 2, 48 facts and 17 exclusive pairs.
+time: 3, 52 facts and 35 exclusive pairs.
+time: 4, 57 facts and 63 exclusive pairs.
+time: 5, 63 facts and 103 exclusive pairs.
+time: 6, 70 facts and 157 exclusive pairs.
+Goals reachable at 6 steps but mutually exclusive.
+time: 7, 75 facts and 191 exclusive pairs.
+Goals first reachable in 7 steps.
+1182 nodes created.
+goals at time 8:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 7 steps
+time: 8, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 9:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 8 steps
+time: 9, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 10:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 9 steps
+time: 10, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 11:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 10 steps
+time: 11, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 12:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 11 steps
+time: 12, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 13:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 12 steps
+time: 13, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 14:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 13 steps
+time: 14, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 15:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 14 steps
+time: 15, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 16:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 15 steps
+time: 16, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 17:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 16 steps
+time: 17, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 18:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 17 steps
+time: 18, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 19:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 18 steps
+time: 19, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 20:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 19 steps
+time: 20, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 21:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 20 steps
+time: 21, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 22:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 21 steps
+time: 22, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 23:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 22 steps
+time: 23, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 24:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 23 steps
+time: 24, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 25:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 24 steps
+time: 25, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 26:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 25 steps
+time: 26, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 27:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 26 steps
+time: 27, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 28:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 27 steps
+time: 28, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 29:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 28 steps
+time: 29, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 30:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 29 steps
+time: 30, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 31:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 30 steps
+time: 31, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 32:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 31 steps
+time: 32, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 33:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 32 steps
+time: 33, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 34:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 33 steps
+time: 34, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 35:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 34 steps
+time: 35, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 36:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 35 steps
+time: 36, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 37:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 36 steps
+time: 37, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 38:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 37 steps
+time: 38, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 39:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 38 steps
+time: 39, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 40:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 39 steps
+time: 40, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 41:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 40 steps
+time: 41, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 42:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 41 steps
+time: 42, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 43:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 42 steps
+time: 43, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 44:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 43 steps
+time: 44, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 45:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 44 steps
+time: 45, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 46:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 45 steps
+time: 46, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 47:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 46 steps
+time: 47, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 48:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 47 steps
+time: 48, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 49:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+^[[BCan't solve in 48 steps
+time: 49, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 50:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 49 steps
+time: 50, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 51:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 50 steps
+time: 51, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 52:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 51 steps
+time: 52, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 53:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 52 steps
+time: 53, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 54:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 53 steps
+time: 54, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 55:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 54 steps
+time: 55, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 56:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 55 steps
+time: 56, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 57:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 56 steps
+time: 57, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 58:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 57 steps
+time: 58, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 59:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 58 steps
+time: 59, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 60:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 59 steps
+time: 60, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 61:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 60 steps
+time: 61, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 62:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 61 steps
+time: 62, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 63:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+Can't solve in 62 steps
+time: 63, 75 facts and 181 exclusive pairs.
+316 new nodes added.
+goals at time 64:
+  on_disk1_pegC on_disk2_disk1 on_disk3_disk2 on_disk4_disk3 on_disk5_disk4 on_disk6_disk5 
+
+1 MOVE_disk6_disk5_pegB
+2 MOVE_disk5_disk4_pegC
+3 MOVE_disk6_pegB_disk5
+4 MOVE_disk4_disk3_pegB
+5 MOVE_disk6_disk5_disk3
+6 MOVE_disk5_pegC_disk4
+7 MOVE_disk6_disk3_disk5
+8 MOVE_disk3_disk2_pegC
+9 MOVE_disk6_disk5_disk3
+10 MOVE_disk5_disk4_disk2
+11 MOVE_disk6_disk3_disk5
+12 MOVE_disk4_pegB_disk3
+13 MOVE_disk6_disk5_pegB
+14 MOVE_disk5_disk2_disk4
+15 MOVE_disk6_pegB_disk5
+16 MOVE_disk2_disk1_pegB
+17 MOVE_disk6_disk5_disk1
+18 MOVE_disk5_disk4_disk2
+19 MOVE_disk6_disk1_disk5
+20 MOVE_disk4_disk3_disk1
+21 MOVE_disk6_disk5_disk3
+22 MOVE_disk5_disk2_disk4
+23 MOVE_disk6_disk3_disk5
+24 MOVE_disk3_pegC_disk2
+25 MOVE_disk6_disk5_disk3
+26 MOVE_disk5_disk4_pegC
+27 MOVE_disk6_disk3_disk5
+28 MOVE_disk4_disk1_disk3
+29 MOVE_disk6_disk5_disk1
+30 MOVE_disk5_pegC_disk4
+31 MOVE_disk6_disk1_disk5
+32 MOVE_disk1_pegA_pegC
+33 MOVE_disk6_disk5_disk1
+34 MOVE_disk5_disk4_pegA
+35 MOVE_disk6_disk1_disk5
+36 MOVE_disk4_disk3_disk1
+37 MOVE_disk6_disk5_disk3
+38 MOVE_disk5_pegA_disk4
+39 MOVE_disk6_disk3_disk5
+40 MOVE_disk3_disk2_pegA
+41 MOVE_disk6_disk5_disk3
+42 MOVE_disk5_disk4_disk2
+43 MOVE_disk6_disk3_disk5
+44 MOVE_disk4_disk1_disk3
+45 MOVE_disk6_disk5_disk1
+46 MOVE_disk5_disk2_disk4
+47 MOVE_disk6_disk1_disk5
+48 MOVE_disk2_pegB_disk1
+49 MOVE_disk6_disk5_pegB
+50 MOVE_disk5_disk4_disk2
+51 MOVE_disk6_pegB_disk5
+52 MOVE_disk4_disk3_pegB
+53 MOVE_disk6_disk5_disk3
+54 MOVE_disk5_disk2_disk4
+55 MOVE_disk6_disk3_disk5
+56 MOVE_disk3_pegA_disk2
+57 MOVE_disk6_disk5_disk3
+58 MOVE_disk5_disk4_pegA
+59 MOVE_disk6_disk3_disk5
+60 MOVE_disk4_pegB_disk3
+61 MOVE_disk6_disk5_pegB
+62 MOVE_disk5_pegA_disk4
+63 MOVE_disk6_pegB_disk5
+25720650 entries in hash table, 66513810 hash hits, avg set size -18.
+92234522 total set-creation steps (entries + hits + plan length - 1).
+71522661 actions tried
+  895 min, 44 seconds

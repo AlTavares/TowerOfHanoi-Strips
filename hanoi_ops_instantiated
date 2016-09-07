@@ -1,0 +1,57 @@
+#
+(operator
+  MOVE-DISK-3
+  (params
+    (<from> Peg) (<to> Peg)
+  )
+  (preconds
+    (not-equal <from> <to>)
+    (on disk3 <from>)
+  )
+  (effects 
+    (del on disk3 <from>)
+    (not-on disk3 <from>)    
+    (on disk3 <to>)
+    (del not-on disk3 <to>)
+  )
+)
+
+(operator
+  MOVE-DISK-2
+  (params
+    (<from> Peg) (<to> Peg)
+  )
+  (preconds
+    (not-equal <from> <to>)
+    (on disk2 <from>)
+    (not-on disk3 <from>)
+    (not-on disk3 <to>)
+  )
+  (effects 
+    (del on disk2 <from>)
+    (not-on disk2 <from>)    
+    (on disk2 <to>)
+    (del not-on disk2 <to>)
+  )
+)
+
+(operator
+  MOVE-DISK-1
+  (params
+    (<from> Peg) (<to> Peg)
+  )
+  (preconds
+    (not-equal <from> <to>)
+    (on disk1 <from>)
+    (not-on disk2 <from>)
+    (not-on disk3 <from>)
+    (not-on disk2 <to>)
+    (not-on disk3 <to>)
+  )
+  (effects
+    (del on disk1 <from>)
+    (not-on disk1 <from>)    
+    (on disk1 <to>)
+    (del not-on disk1 <to>)
+  )
+)
