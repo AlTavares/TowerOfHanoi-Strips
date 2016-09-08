@@ -1,0 +1,11 @@
+(disk3 Disk)
+(pegA Object)
+(pegC Object)
+
+(preconds
+    (on disk3 pegA) 
+)
+
+(effects
+    (on disk3 PegC) 
+)

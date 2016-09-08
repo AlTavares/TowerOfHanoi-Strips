@@ -13,11 +13,9 @@
     (not-equal pegC pegB)
     (not-equal pegC pegA)
 
-    (on disk1 pegC)
-    (on disk2 pegC)
+    (on disk1 pegA)
+    (on disk2 pegA)
     (on disk3 pegA) 
-    
-
 
 )
 
